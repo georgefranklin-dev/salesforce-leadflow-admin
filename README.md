@@ -1,22 +1,36 @@
-# Salesforce LeadFlow Admin Project 🚀
+# Salesforce LeadFlow Admin
 
-Automação de processos e dashboard inteligente para gestão de leads usando Salesforce CRM.
+Automatiza processos e cria dashboard dinâmico para gestão de **leads** com Salesforce.
 
-## 🛠️ Funcionalidades
-- Criação automática da Data de Primeiro Contato (Flow)
-- Campo Tags de Interesse personalizado (multi-seleção)
-- Dashboard com relatório de novos leads
+## 🌟 Funcionalidades
+
+- Atualização automática da **Data do Primeiro Contato**.
+- Campo **Tags de Interesse** personalizado (multi-seleção).
+- Dashboard com relatório de novos leads e contatos recentes.
 
 ## 📊 Tecnologias Usadas
-- Salesforce Flow Builder
-- Salesforce Reports & Dashboards
+
+- Salesforce **Flow Builder**
+- Salesforce **Reports & Dashboards**
 - GitHub (documentação)
 
-## 📷 Capturas de Tela
-(Imagens em breve)
+## 📈 Capturas de Tela
 
-## 🔗 LinkedIn
-(Em construção)
+### Dashboard - Relatório de Leads
+![Dashboard Screenshot](assets/salesforce_dashboard.png)
 
-## 📥 Contato
-George Franklin – Admin & Dev Salesforce
+### Thumbnail do Projeto
+![Project Thumbnail](assets/salesforce_thumbnail.png)
+
+## 🔹 Sobre o Projeto
+Este projeto faz parte do portfólio de George Franklin e foi desenvolvido para demonstração prática de Salesforce Admin.
+
+## 🚀 Executando e Testando
+Este projeto foi desenvolvido em ambiente **Salesforce Trailhead Playground**.
+
+## 👉 Conecte-se:
+[LinkedIn - George Franklin](https://www.linkedin.com/in/georgefranklin-dev)
+
+---
+
+> 📄 Este repositório é público e serve como base de demonstração profissional. Nenhum dado sensível está exposto.
